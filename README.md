@@ -1,8 +1,8 @@
 # EXPERIMENT 4 – PROMPT ENGINEERING PATTERNS
 
 # Experiment No.: 4
-# Name: Bakkiyalakshmi E
-# Register Number: 212223220012
+# Name: siddharth g
+# Register Number: 212223060263
 
 ---
 
